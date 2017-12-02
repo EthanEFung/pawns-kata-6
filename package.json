@@ -1,0 +1,26 @@
+{
+  "name": "pawns-kata-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanEFung/pawns-kata-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanEFung/pawns-kata-6/issues"
+  },
+  "homepage": "https://github.com/EthanEFung/pawns-kata-6#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jest": "^21.2.1",
+    "nodemon": "^1.12.1"
+  }
+}
